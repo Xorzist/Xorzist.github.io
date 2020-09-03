@@ -10,9 +10,11 @@ body {
     color:  white;
     padding: 2%;
     font-size: 125%;
+    width: 100%;
     font-style: italic;
     font-family: optima;
-    top: 0; left: 0; right: 0; bottom: 0;
+    top: 0; left: 0; right: 0;
+    position: fixed;
     z-index: 0;
   }
   .floatingcircle{
@@ -46,17 +48,21 @@ body {
   }
   
   .container {
+    width: 100%;
     position: relative;
     left: 50%;
     -moz-transform: translateX(-50%) ;
     -webkit-transform: translateX(-50%) ;
-    transform: translateX(-50%) ;
+    transform: translateX(-30%) ;
   }
   .main{
     position: 'absolute';
     right: 0; bottom: 0;
     left: '0px';
     z-index: 2;
+  }
+  .backgrounder{
+    background-color:#364456 ;
   }
   
   
