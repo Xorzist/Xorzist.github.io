@@ -6,7 +6,7 @@ body {
   
   #topNav{
     
-    background-color: #050E32;
+    background-color: #374e6b;
     color:  white;
     padding: 2%;
     font-size: 125%;
@@ -14,8 +14,8 @@ body {
     font-style: italic;
     font-family: optima;
     top: 0; left: 0; right: 0;
-    position: fixed;
-    z-index: 0;
+    position: initial;
+   
   }
   .floatingcircle{
     left: 0; right: 0; bottom: 0;
