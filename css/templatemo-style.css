@@ -364,7 +364,7 @@ a#logo {
 ================================================*/
 #social-icons {
   padding:0;
-  position: fixed;
+  position: absolute;
   top: 50%;
   transform: translateY(-50%);
   right:0;
@@ -372,12 +372,12 @@ a#logo {
 }
 .social-icons {
   margin:0;
-  padding:0;
+  padding:5;
   list-style:none;
 }
 .social-icons li {
   display: block;
-  margin: 1px 0px;
+  margin: 5px 10px;
 }
 .social-icons li a {
   width:50px;
