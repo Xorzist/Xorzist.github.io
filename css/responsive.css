@@ -199,6 +199,7 @@
 		top: 0;
 		z-index: 6666;
 		background-color: rgba(250,250,250,0.9);
+		
 	}
 	#navigation button i {
 		color: #1e1e1e;
@@ -208,6 +209,7 @@
 	}
 	#logo {
 		color: #1e1e1e;
+		
 	}
 	.navbar-toggle {
 		padding: 0;
