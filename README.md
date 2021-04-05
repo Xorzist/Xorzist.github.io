@@ -1,5 +1,4 @@
 # Xorzist.github.io
-My personal webpage to host my resume for easy viewing without need for a download.
-Please access the following address to peruse my resume :
+Hosting repository for my portoflio website:
 
-[My Resume](https://xorzist.github.io/)
+[My Portfolio](https://xorzist.github.io/)
