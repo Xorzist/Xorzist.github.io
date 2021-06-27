@@ -183,6 +183,9 @@
 .fa-glass:before {
   content: "\f000";
 }
+.fa-medium:before{
+  content: "\f23a";
+}
 .fa-music:before {
   content: "\f001";
 }
